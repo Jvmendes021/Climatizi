@@ -1,2 +1,2 @@
 # Climatizi
-Site desevolvido para uma empresa de ar condicinado.
+Site desenvolvido para uma empresa de ar condicinado..
